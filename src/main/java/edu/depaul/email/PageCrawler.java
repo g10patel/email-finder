@@ -26,6 +26,19 @@ import static edu.depaul.email.StorageService.StorageType.BADLINKS;
  */
 public class PageCrawler {
   private int maxEmails= 50;
+
+  public Set<String> getEmails() {
+    return emails;
+  }
+
+  public Set<String> getGoodLinks() {
+    return goodLinks;
+  }
+
+  public Set<String> getBadLinks() {
+    return badLinks;
+  }
+
   private Set<String> emails = new HashSet<>();
   private PageFetcher fetcher = new PageFetcher();
   private PageParser parser = new PageParser();
@@ -51,7 +64,11 @@ public class PageCrawler {
       return;
     }
     if (base == null) {
-      base = url;
+      if (url.startsWith("http")) {
+        base = url;
+      } else {
+        base = "";
+      }
     }
     Document doc = null;
     try {
