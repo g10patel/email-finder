@@ -1,14 +1,5 @@
-https://learning.depaul.edu/eCS/Home.aspx
-https://learning.depaul.edu/eCS/CourseListing.aspx?master_id=802&master_version=1&course_area=FPEC&course_number=108&course_subtitle=00
 http://www.depaul.edu
-http://go.depaul.edu/requestinfo
-http://www.depaul.edu/Pages/contact-us.aspx
-http://www.cdm.depaul.edu/Faculty-and-Staff/Pages/Faculty.aspx
-http://www.cdm.depaul.edu/admission-and-aid/Pages/tuition.aspx
-https://d2l.depaul.edu/
-https://www.depaul.edu/Pages/copyright.aspx
-http://www.cdm.depaul.edumailto:AABUSINI@depaul.edu
-http://www.cdm.depaul.edu/Faculty-and-Staff/Pages/Administration.aspx
 http://www.cdm.depaul.edu/Student-Resources/Pages/CDM-Tuition-Funding.aspx
 http://www.cdm.depaul.edu
-http://www.cdm.depaul.edu#Sitemap1_SkipLink
+http://www.cdm.depaul.edu/Faculty-and-Staff/Pages/Faculty.aspx
+http://www.cdm.depaul.edu/admission-and-aid/Pages/tuition.aspx

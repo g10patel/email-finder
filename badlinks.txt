@@ -1,5 +1,1 @@
-http://www.cdm.depaul.edu/about/history-and-timeline/Pages/default.aspx
 http://www.cdm.depaul.edu/virtual-campus-tour/Pages/default.aspx
-http://www.cdm.depaul.edu/about/chicago/Pages/default.aspx
-http://www.cdm.depaul.edujavascript: whole_document_printer_compliant_printing();
-http://www.cdm.depaul.edu/about/Pages/accreditation.aspx
