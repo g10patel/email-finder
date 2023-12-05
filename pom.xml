@@ -12,7 +12,7 @@
     <user.id>jpatel97</user.id>
     <junit.version>5.6.1</junit.version>
     <platform.version>1.6.1</platform.version>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.2.13</logback.version>
     <surefire.version>3.0.0-M4</surefire.version>
     <assembler.version>3.1.0</assembler.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
